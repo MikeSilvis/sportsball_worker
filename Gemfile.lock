@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mikesilvis/espn-scraper.git
-  revision: 0f04ac3dc31aa31a360fa468728b9e848cd00dde
+  revision: a87b09d0d32449df70b0cc273cfd3158f20d02c8
   specs:
     espn_scraper (1.0.5)
       activesupport
@@ -11,7 +11,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.2.1)
+    activesupport (4.2.4)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -31,14 +31,14 @@ GEM
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
     hitimes (1.2.2)
-    httparty (0.13.3)
+    httparty (0.13.5)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     httpclient (2.6.0.1)
     i18n (0.7.0)
-    json (1.8.2)
+    json (1.8.3)
     mini_portile (0.6.2)
-    minitest (5.6.0)
+    minitest (5.8.0)
     multi_json (1.11.0)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
